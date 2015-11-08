@@ -27,7 +27,8 @@
     "point",
     "distance",
     "geometry",
-    "2d"
+    "2d",
+    "3d"
   ],
   "devDependencies": {
     "eslint": "^1.9.0",

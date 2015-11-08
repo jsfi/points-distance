@@ -26,3 +26,12 @@ let distance = require('points-distance')(
 
 // distance = 5
 ```
+
+```js
+let distance = require('points-distance')(
+    [1, 1, 1],//point1
+    [3, 4, 7] //point2
+);
+
+// distance = 7
+```
